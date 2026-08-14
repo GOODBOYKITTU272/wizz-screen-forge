@@ -1,6 +1,5 @@
-import OneClickPrototype from "./OneClickPrototype";
+import OneClickApp from "./oneclick/OneClickApp";
 
-// Preview branch heartbeat: keeps the Vercel Git integration easy to verify.
 export default function App() {
-  return <OneClickPrototype />;
+  return <OneClickApp />;
 }
