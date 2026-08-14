@@ -22,5 +22,8 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Validate 47-screen OneClick flow
+        run: node scripts/validate-oneclick-flow.mjs
+
       - name: Build prototype
         run: npm run build
