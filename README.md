@@ -4,6 +4,8 @@
 
 **URL**: https://lovable.dev/projects/8838f505-a0ea-4b67-acb6-2f6210d5a5a7
 
+> OneClick preview deployment marker: 2026-08-15 communication-layer complete (`s48`–`s51`).
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
